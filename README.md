@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on IoT Projects
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about IoT
-- 📫 How to reach me: on my Instagram (https://www.instagram.com/hindou.tech/?hl=fr)
-- 😄 Pronouns: she/her
+- 📫 How to reach me: on my Twitter (https://twitter.com/hindou_bou)
 - ⚡ Fun fact: Cards player
 
