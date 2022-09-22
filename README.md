@@ -1,10 +1,10 @@
 ### Hi I am Hind 👋
 
-- 🔭 I’m currently an IoT(Internet of Things) Developer working on a CRN thesis
-- 🌱 I’m currently learning new dev skills
-- 👯 I’m looking to collaborate on python based Projects
-- 🤔 I’m looking for challenging python projects
-- 💬 Ask me about IoT
+- 🔭 Aws enthousiast 
+- 🌱 I’m currently learning new services
+- 👯 I’m looking to collaborate on python based Projects/Aws
+- 🤔 I’m looking for challenging AWS projects
+- 💬 Ask me about IoT/AWS
 - 📫 How to reach me: on my Twitter (https://twitter.com/hindou_bou)
 - ⚡ Fun fact: Cards player
 
