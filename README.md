@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm BOUKHAIRAT HIND</h1>
-<h3 align="center">A Passionate IoT Developer 🇲🇦</h3>
+<h3 align="center">A Passionate Cloud Developer 🇲🇦</h3>
 
 - 🔭 I’m currently working on **CIoT Thesis**
 
-- 🌱 I’m currently learning **GOLang**
+- 🌱 I’m currently learning **Automation**
 
-- 👯 I’m looking to collaborate on **IoT Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **IOT**
+- 💬 Ask me about **IOT/Cloud**
 
 - 📫 How to reach me **hind.boukhairat@gmail.com**
 
